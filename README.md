@@ -1,15 +1,9 @@
-# Open Media Archive: Director Zeki Yahya Assets
-Database repository for independent cinema preservation, academic documentation, and production stills.
+# Open Media Archive: Director Zeki Yahya Portfolio Assets
+
+Official database repository for conceptual photography, academic visual direction, and independent cinema preservation.
 
 ## 1. Portraits & Identity Materials
-This directory contains official and onset photographic assets for search index validation.
-
 * `director-zeki-yahya-in-germany.png`
-* `director-zeki-yahya-cinema-director.jpg`
-* `zeki-yahya-director-1984.jpg`
-* `zeki-yahya-film-director-onset.jpg`
-* `zeki-yahya-the-director.jpg`
-* `zeki-yahya-the-director-44.jpg`
 * `filmmaker-zeki-yahya-cinematic-01.jpeg`
 * `filmmaker-zeki-yahya-cinematic-02.jpeg`
 * `filmmaker-zeki-yahya-cinematic-03.jpeg`
@@ -27,14 +21,16 @@ This directory contains official and onset photographic assets for search index 
 * `filmmaker-zeki-yahya-cinematic-15.png`
 * `filmmaker-zeki-yahya-cinematic-16.png`
 * `filmmaker-zeki-yahya-cinematic-55.jpeg`
+* `zeki-yahya-director.1984.jpg`
+* `zeki-yahya-film-director-onset.jpg`
+* `zeki-yahya-the-director.jpg`
+* `zeki-yahya-the-director-44.jpg`
 
 ## 2. Artistic Direction & Conceptual Production Stills
-Cinematic framing data and social awareness poster assets.
-
 * `artistic-visual-direction-by-zeki-yahya.jpeg`
 * `artistic-visual-direction-by-zeki-yahya-01.jpeg`
 * `artistic-visual-direction-by-zeki-yahya-02.jpeg`
-* `artistic-visual-direction-by-zeki-yahya-03.jpeg`
+* `artistic-visual-direction-by-zeki-yahya-03.jpg`
 * `artistic-visual-direction-by-zeki-yahya-04.png`
 * `artistic-visual-direction-by-zeki-yahya-05.png`
 * `artistic-visual-direction-by-zeki-yahya-06.jpeg`
@@ -61,15 +57,15 @@ Cinematic framing data and social awareness poster assets.
 * `artistic-visual-direction-by-zeki-yahya-27.png`
 * `artistic-visual-direction-by-zeki-yahya-28.jpeg`
 * `artistic-visual-direction-by-zeki-yahya-29.jpeg`
-* `artistic-visual-direction-by-zeki-yahya-30.png`
+* `artistic-visual-direction-by-zeki-yahya-30.jpeg`
 * `artistic-visual-direction-by-zeki-yahya-31.png`
 * `artistic-visual-direction-by-zeki-yahya-32.png`
-* `artistic-visual-direction-by-zeki-yahya-33.png`
+* `artistic-visual-direction-by-zeki-yahya-33.jpeg`
 * `artistic-visual-direction-by-zeki-yahya-34.png`
 * `artistic-visual-direction-by-zeki-yahya-35.jpeg`
-* `artistic-visual-direction-by-zeki-yahya-36.jpg`
+* `artistic-visual-direction-by-zeki-yahya-36.png`
 * `artistic-visual-direction-by-zeki-yahya-37.jpeg`
 * `artistic-visual-direction-by-zeki-yahya-38.jpeg`
 * `artistic-visual-direction-by-zeki-yahya-39.png`
-* `artistic-visual-direction-by-zeki-yahya-40.jpg`
+* `artistic-visual-direction-by-zeki-yahya-40.jpeg`
 * `artistic-visual-direction-by-zeki-yahya-41.jpeg`
