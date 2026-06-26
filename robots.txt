@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://media-assets-hub.github.io/media-vault/sitemap.xml
